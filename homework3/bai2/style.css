@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-size: 100px;
+}
+img {
+  width: 400px;
+}
+.text-container {
+  color: green;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline dotted;
+}

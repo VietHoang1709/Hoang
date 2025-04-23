@@ -1,0 +1,27 @@
+.introduction {
+  background-color: #027bff;
+  text-align: center;
+  line-height: 15px;
+}
+.introduction h1 {
+  padding-top: 30px;
+  margin: 0%;
+}
+.menu-container {
+  text-align: center;
+  padding: 20px;
+}
+.content {
+  text-align: center;
+  padding: 30px 0;
+}
+
+.menu-container a {
+  text-decoration: none;
+  margin-right: 15px;
+}
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 15px;
+}

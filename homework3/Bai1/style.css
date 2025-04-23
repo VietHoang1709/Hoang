@@ -1,0 +1,18 @@
+h1 {
+  background-color: #333333;
+  color: #d5e1ef;
+  text-align: center;
+}
+div p {
+  text-align: center;
+}
+.img {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+img {
+  height: 200px;
+  width: 120px;
+}

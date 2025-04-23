@@ -1,0 +1,23 @@
+body {
+  background-color: #f4f4f4;
+}
+h1 {
+  text-align: center;
+}
+table {
+  width: 100%;
+  border: 1px solid #dddddd;
+  margin-left: 10px;
+}
+thead {
+  text-align: center;
+  background-color: #027bff;
+}
+tbody tr:nth-child(even) {
+  background-color: white;
+}
+th,
+td {
+  padding: 15px;
+  text-align: center;
+}

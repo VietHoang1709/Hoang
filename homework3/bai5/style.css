@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.post-container {
+  width: 1100px;
+}
+.post-container img {
+  width: 400px;
+}
+.post-container a {
+  font-size: 35px;
+  text-decoration: none;
+  color: #333333;
+  font-weight: bold;
+}
+.post-container .title {
+  margin-bottom: 20px;
+}
+.post-container .category {
+  color: #777777;
+  margin-bottom: 20px;
+}
+.post-container .category b {
+  color: #41455e;
+}
+.post-container .col-02 {
+  padding: 0px 20px;
+}
